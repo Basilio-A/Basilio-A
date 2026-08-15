@@ -15,7 +15,6 @@ Building AI products that solve real-world problems.
 
 ## About Me
 
-I'm a 21-year-old founder from Ethiopia.
 
 Currently focused on building **LumiCore**, an AI startup creating products that solve practical problems instead of adding more noise.
 
@@ -26,7 +25,6 @@ Outside of startups, I enjoy cinematography, product design, music, and constant
 - Build LumiCore into a world-class AI company.
 - Launch products with real customer demand.
 - Master startup execution.
-- Become financially free before turning 25.
 
 ---
 
